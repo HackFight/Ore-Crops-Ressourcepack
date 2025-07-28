@@ -1,0 +1,15 @@
+{
+	"parent": "item/item_frame",
+	"overrides": [
+		{ "predicate": {"custom_model_data": 3000001}, "model": "ore_crops:item/seeds/coal_seeds"},
+		{ "predicate": {"custom_model_data": 3000003}, "model": "ore_crops:item/seeds/iron_seeds"},
+		{ "predicate": {"custom_model_data": 3000005}, "model": "ore_crops:item/seeds/copper_seeds"},
+		{ "predicate": {"custom_model_data": 3000007}, "model": "ore_crops:item/seeds/gold_seeds"},
+		{ "predicate": {"custom_model_data": 3000009}, "model": "ore_crops:item/seeds/diamond_seeds"},
+		{ "predicate": {"custom_model_data": 3000011}, "model": "ore_crops:item/seeds/redstone_seeds"},
+		{ "predicate": {"custom_model_data": 3000013}, "model": "ore_crops:item/seeds/lapis_seeds"},
+		{ "predicate": {"custom_model_data": 3000015}, "model": "ore_crops:item/seeds/emerald_seeds"},
+		{ "predicate": {"custom_model_data": 3000017}, "model": "ore_crops:item/seeds/quartz_wart"},
+		{ "predicate": {"custom_model_data": 3000019}, "model": "ore_crops:item/seeds/netherite_wart"}
+	]
+}

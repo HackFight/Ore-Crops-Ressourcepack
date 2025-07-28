@@ -1,0 +1,15 @@
+{
+    "parent": "block/deepslate",
+	"overrides": [
+		{ "predicate": {"custom_model_data": 3000002}, "model": "ore_crops:block/wheat/coal_wheat"},
+		{ "predicate": {"custom_model_data": 3000004}, "model": "ore_crops:block/wheat/iron_wheat"},
+		{ "predicate": {"custom_model_data": 3000006}, "model": "ore_crops:block/wheat/copper_wheat"},
+		{ "predicate": {"custom_model_data": 3000008}, "model": "ore_crops:block/wheat/gold_wheat"},
+		{ "predicate": {"custom_model_data": 3000010}, "model": "ore_crops:block/wheat/diamond_wheat"},
+		{ "predicate": {"custom_model_data": 3000012}, "model": "ore_crops:block/wheat/redstone_wheat"},
+		{ "predicate": {"custom_model_data": 3000014}, "model": "ore_crops:block/wheat/lapis_wheat"},
+		{ "predicate": {"custom_model_data": 3000016}, "model": "ore_crops:block/wheat/emerald_wheat"},
+		{ "predicate": {"custom_model_data": 3000018}, "model": "ore_crops:block/wheat/quartz_wart"},
+		{ "predicate": {"custom_model_data": 3000020}, "model": "ore_crops:block/wheat/netherite_wart"}
+	]
+}
